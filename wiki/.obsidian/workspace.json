@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Development-and-Ops/CI-CD-and-Testing.md",
+                "file": "05-Integrations-and-Tools/Cross-Vendor-Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CI-CD-and-Testing"
+              "title": "Cross-Vendor-Tools"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08-Development-and-Ops/CI-CD-and-Testing.md",
+                "file": "05-Integrations-and-Tools/Cross-Vendor-Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CI-CD-and-Testing"
+              "title": "Backlinks for Cross-Vendor-Tools"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08-Development-and-Ops/CI-CD-and-Testing.md",
+                "file": "05-Integrations-and-Tools/Cross-Vendor-Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CI-CD-and-Testing"
+              "title": "Outgoing links from Cross-Vendor-Tools"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08-Development-and-Ops/CI-CD-and-Testing.md",
+                "file": "05-Integrations-and-Tools/Cross-Vendor-Tools.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CI-CD-and-Testing"
+              "title": "Outline of Cross-Vendor-Tools"
             }
           }
         ]
@@ -185,12 +185,17 @@
   },
   "active": "16d89d303cca3af6",
   "lastOpenFiles": [
-    "08-Development-and-Ops/Adding-New-Tools-and-Integrations.md",
+    "05-Integrations-and-Tools/Vendor-Integrations.md",
+    "05-Integrations-and-Tools/Hermes-Log-Pipeline.md",
+    "05-Integrations-and-Tools/Integrations-Catalog.md",
+    "05-Integrations-and-Tools/System-Tools.md",
     "07-Gateway-Daemon/Telegram-and-Slack-Sinks.md",
+    "Home.md",
+    "08-Development-and-Ops/CI-CD-and-Testing.md",
+    "08-Development-and-Ops/Adding-New-Tools-and-Integrations.md",
     "07-Gateway-Daemon/Session-and-Storage.md",
     "08-Development-and-Ops/Troubleshooting-and-FAQ.md",
     "07-Gateway-Daemon/Gateway-Architecture.md",
-    "08-Development-and-Ops/CI-CD-and-Testing.md",
     "08-Development-and-Ops/Setup-and-Installation.md",
     "08-Development-and-Ops",
     "05-Integrations-and-Tools/Cross-Vendor-Tools.md",
@@ -202,13 +207,8 @@
     "06-Platform-Services/Data-Masking.md",
     "06-Platform-Services/Guardrails-Engine.md",
     "06-Platform-Services",
-    "05-Integrations-and-Tools/Hermes-Log-Pipeline.md",
-    "05-Integrations-and-Tools/System-Tools.md",
-    "05-Integrations-and-Tools/Vendor-Integrations.md",
-    "05-Integrations-and-Tools/Integrations-Catalog.md",
     "05-Integrations-and-Tools",
     "04-Surfaces/Slack-App.md",
-    "Home.md",
     "04-Surfaces/Action-Planner-Policy.md",
     "04-Surfaces/REPL-Watchdog.md",
     "04-Surfaces/Interactive-REPL.md",
